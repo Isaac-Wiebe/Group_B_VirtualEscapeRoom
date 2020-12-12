@@ -1,5 +1,15 @@
 # VIRTUAL ESCAPE ROOM
 
+#### Created by: Alvi Jawad, Felix Elugbaju, John Jegede, and Isaac Wiebe
+#### Carleton University
+
+# Table of Contents
+1. [Descripton] (#Description)
+
+
+
+## Description
+
 The software will allow users to take the role of an imprisoned player and dive into an exciting
 and challenging adventure in a text-based interactive environment.
 
