@@ -4,10 +4,11 @@
 #### Carleton University
 
 # Table of Contents
-1. [Descripton] (##Description)
+1. [Descripton](#Description)
+2. [Source File Organization](#dirstructure)
 
 
-
+# <a name="Description"></a>
 ## Description
 
 The software will allow users to take the role of an imprisoned player and dive into an exciting
@@ -25,7 +26,39 @@ interactions, and challenges. Challenges in each room are more difficult than th
 cleared rooms. The game will end when the user solves all the mysteries in all rooms and leaves
 through the grand door of the final room.
 
+# <a name ="dirstructure"></a>
 ## Source File Organization
+
+The complete file structure is as follows: 
+/bin
+
+/build
+- arghandling.o
+- execution.o
+- helper.o
+- main.o
+- object.o
+- parsenexec.o
+- puzzle.o
+
+/include 
+- arghandling.h
+- execution.h
+- helper.h
+- object.h
+- parsenexec.h
+- puzzle.h 
+
+/src
+- arghandling.c 
+- execution.c
+- helper.c 
+- main.c 
+- object.c 
+- parsenexec.c 
+- puzzle.c
+
+/test
 
 ### Installing
 Lorem ipsum ...
