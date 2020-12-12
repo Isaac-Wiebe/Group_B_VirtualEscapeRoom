@@ -4,7 +4,7 @@
 #### Carleton University
 
 # Table of Contents
-1. [Descripton] (#Description)
+1. [Descripton] (##Description)
 
 
 
@@ -24,3 +24,10 @@ Opening one door will lead to a different room with a distinctively different se
 interactions, and challenges. Challenges in each room are more difficult than the previously
 cleared rooms. The game will end when the user solves all the mysteries in all rooms and leaves
 through the grand door of the final room.
+
+## Source File Organization
+
+### Installing
+Lorem ipsum ...
+
+### Packaging
