@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include "object.h"
 
@@ -22,7 +21,17 @@ OBJECT_t objs[] = {
 	"Reading the letter might give you a better idea about its contents\n"", stage1},
 	/** A letter **/
 	{"a dusty letter", "letter", hidden_object, regular, 
-	  "TODO: Add Text", stage1},
+	  "dear ashford,\n"
+	"it has been a Long time since i wrote a letter to you. the weather is\n"
+	"getting pretty cold right now, enough to freeze my Hand. i bought a\n"
+	"cheap sweater for Twelve dollars, and it's better now.\n"
+	"the farmers' market is a Short walk from where i live. i remember how\n"
+	"i injured my left Hand once while trying to ride a bicycle there. The\n"
+	"vendors are preparing their stalls for christmas which is only Seven \n"
+	"days away.\n"
+	"i really wish you could be here with all of us during the holiday. we..\n"
+	"............................\n"
+	"The rest of the letter is illegible", stage1},", stage1},
 	/** A clock **/
 	{"a broken clock", "clock", visible_object, regular, 
 	"The clock hands are not moving.\n"
